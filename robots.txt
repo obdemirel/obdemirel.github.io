@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://obdemirel.github.io/sitemap.xml
+Sitemap: obdemirel.github.io/sitemap.xml
