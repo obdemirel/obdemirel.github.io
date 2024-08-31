@@ -223,7 +223,6 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
   - [Features](#features)
     - [Light/Dark Mode](#lightdark-mode)
     - [CV](#cv)
-    - [People](#people)
     - [Publications](#publications)
     - [Collections](#collections)
     - [Layouts](#layouts)
