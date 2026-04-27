@@ -2,22 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: Harvard Medical School, Beth Israel Deaconess Medical Center # <a href='#'>Harvard Medical School, Beth Israel Deaconess Medical Center </a>. Address. Contacts. Moto. Etc.
+subtitle: MRI Clinical Scientist at Philips Healthcare | Adjunct Assistant Professor of Radiology, Mayo Clinic
 
 profile:
   align: right
   image: IMG_3010.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>330 Brookline Ave</p>
-    <p>Boston, MA 02215</p>
+    <p>202 4th St SW</p>
+    <p>Rochester, MN 55902</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: true
+selected_papers: false
+social: true
 ---
 
-I am currently a postdoctoral research fellow at Harvard Medical School and Beth Israel Deaconess Medical Center. My research interests include signal and image processing, optimization, and image reconstruction to address accelerated imaging and robust reconstruction techniques in Magnetic Resonance Imaging (MRI) and cardiovascular magnetic resonance imaging. 
+I am an MRI Clinical Scientist at Philips Healthcare, based in Rochester, Minnesota, where I work closely with Mayo Clinic to develop and translate advanced imaging technologies into clinical practice. I also serve as an Adjunct Assistant Professor of Radiology at Mayo Clinic.
 
-I received my Ph.D. degree in the Department of Electrical and Computer Engineering at the University of Minnesota in May 2023, under the supervision of Prof. [Mehmet Akçakaya](https://imagine.umn.edu/people/mehmet-ak%C3%A7akaya). Previously, I received my masters degree in electrical engineering from Bilkent University, Turkey in 2017, under the supervision of Prof. [Emine Ülkü Sarıtaş](https://kilyos.ee.bilkent.edu.tr/~saritas/). My master's research focused on Magnetic Particle Imaging (MPI) and magnetostimulation limits on human body. I obtained my bachelors degree in electrical engineering from Bilkent University, Turkey in 2015.
+My work sits at the intersection of medical imaging, machine learning, and clinical translation. I am particularly interested in developing robust and efficient methods for accelerated MRI, image reconstruction, and cardiovascular imaging, with a focus on bringing cutting-edge computational techniques into real-world clinical workflows.
 
+Prior to this, I completed my postdoctoral training at Harvard Medical School and Beth Israel Deaconess Medical Center under the supervision of Prof. [Reza Nezafat](https://connects.catalyst.harvard.edu/Profiles/display/Person/16607), where I worked on advanced reconstruction methods and AI-driven imaging approaches.
+
+I received my Ph.D. in Electrical and Computer Engineering from the University of Minnesota in 2023, under the supervision of Prof. [Mehmet Akçakaya](https://imagine.umn.edu/people/mehmet-ak%C3%A7akaya). My doctoral work focused on accelerating MRI acquisition and improving image quality through optimization and learning-based techniques.
+
+I also hold a master's degree in Electrical Engineering from Bilkent University (2017), where I worked with Prof. [Emine Ülkü Sarıtaş](https://kilyos.ee.bilkent.edu.tr/~saritas/) on Magnetic Particle Imaging (MPI) and magnetostimulation safety limits, and a bachelor's degree in Electrical Engineering from Bilkent University (2015).
